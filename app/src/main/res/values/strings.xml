@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Edgars Grades</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="subjects">
+        <item>Accounting</item>
+        <item>Agricultural Science</item>
+        <item>Biology</item>
+        <item>Chemistry</item>
+        <item>Commerce</item>
+        <item>Economics</item>
+        <item>English Language</item>
+        <item>Geography</item>
+        <item>Government</item>
+        <item>Literature in English</item>
+        <item>Mathematics</item>
+        <item>Physics</item>
+
+    </string-array>
+
+    <string-array name="years">
+        <item>2015</item>
+        <item>2014</item>
+    </string-array>
+
+    <string name="title_activity_quiz_class">Quiz Class</string>
+    <string name="title_activity_scores">Scores</string>
+    <string name="title_activity_index">Edgars Grades</string>
+    <string name="facebook_app_id">909240532556035</string>
+
+</resources>

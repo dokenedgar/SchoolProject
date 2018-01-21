@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Edgar\\AndroidStudioProjects\\MiProject\\facebook\\build\\intermediates\\res\\merged\\release\\color\\com_facebook_send_button_text_color.xml",
+        "source": "C:\\Users\\Edgar\\AndroidStudioProjects\\MiProject\\facebook\\src\\main\\res\\color\\com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\Edgar\\AndroidStudioProjects\\MiProject\\facebook\\build\\intermediates\\res\\merged\\release\\color\\com_facebook_button_text_color.xml",
+        "source": "C:\\Users\\Edgar\\AndroidStudioProjects\\MiProject\\facebook\\src\\main\\res\\color\\com_facebook_button_text_color.xml"
+    }
+]
